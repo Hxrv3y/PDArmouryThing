@@ -6,6 +6,12 @@ shared_scripts = {
     'config.lua'
 }
 
+--RageUI
+
+client_scripts {
+    
+}
+
 client_scripts {
     'cl_armoury.lua'
 
